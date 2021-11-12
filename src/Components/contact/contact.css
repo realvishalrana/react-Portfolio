@@ -78,4 +78,11 @@ button {
   color: white;
   font-weight: 500;
   cursor: pointer;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+button .Thnk {
+  display: flex;
+  align-items: center;
 }
