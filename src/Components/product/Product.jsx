@@ -3,7 +3,7 @@ import "./product.css";
 function Product({ img, link }) {
   return (
     <div className="p">
-      <div className="p-brower">
+      <div className="p-browser">
         <div className="p-circle"></div>
         <div className="p-circle"></div>
         <div className="p-circle"></div>
