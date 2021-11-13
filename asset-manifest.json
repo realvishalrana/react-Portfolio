@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-Portfolio/static/css/main.beb7aa0d.chunk.css",
+    "main.js": "/react-Portfolio/static/js/main.199a721f.chunk.js",
+    "main.js.map": "/react-Portfolio/static/js/main.199a721f.chunk.js.map",
+    "runtime-main.js": "/react-Portfolio/static/js/runtime-main.b22868cd.js",
+    "runtime-main.js.map": "/react-Portfolio/static/js/runtime-main.b22868cd.js.map",
+    "static/js/2.e5dfe993.chunk.js": "/react-Portfolio/static/js/2.e5dfe993.chunk.js",
+    "static/js/2.e5dfe993.chunk.js.map": "/react-Portfolio/static/js/2.e5dfe993.chunk.js.map",
+    "index.html": "/react-Portfolio/index.html",
+    "static/css/main.beb7aa0d.chunk.css.map": "/react-Portfolio/static/css/main.beb7aa0d.chunk.css.map",
+    "static/js/2.e5dfe993.chunk.js.LICENSE.txt": "/react-Portfolio/static/js/2.e5dfe993.chunk.js.LICENSE.txt",
+    "static/media/Tolv-Coding.a25758ef.png": "/react-Portfolio/static/media/Tolv-Coding.a25758ef.png",
+    "static/media/address.a01cb8cc.png": "/react-Portfolio/static/media/address.a01cb8cc.png",
+    "static/media/award.a796a64f.png": "/react-Portfolio/static/media/award.a796a64f.png",
+    "static/media/canalstreet.de33d07d.png": "/react-Portfolio/static/media/canalstreet.de33d07d.png",
+    "static/media/email.a49e0158.png": "/react-Portfolio/static/media/email.a49e0158.png",
+    "static/media/horror.47d1ae70.png": "/react-Portfolio/static/media/horror.47d1ae70.png",
+    "static/media/me.a82f960c.png": "/react-Portfolio/static/media/me.a82f960c.png",
+    "static/media/moon.3bea3d39.png": "/react-Portfolio/static/media/moon.3bea3d39.png",
+    "static/media/paint-box.02e0cee6.png": "/react-Portfolio/static/media/paint-box.02e0cee6.png",
+    "static/media/phone.d90a6d23.png": "/react-Portfolio/static/media/phone.d90a6d23.png",
+    "static/media/schwartz.68c0be57.png": "/react-Portfolio/static/media/schwartz.68c0be57.png",
+    "static/media/sun.f794832a.png": "/react-Portfolio/static/media/sun.f794832a.png",
+    "static/media/zoo-coding.b753317b.png": "/react-Portfolio/static/media/zoo-coding.b753317b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b22868cd.js",
+    "static/js/2.e5dfe993.chunk.js",
+    "static/css/main.beb7aa0d.chunk.css",
+    "static/js/main.199a721f.chunk.js"
+  ]
+}
