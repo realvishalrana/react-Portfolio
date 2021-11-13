@@ -9,12 +9,12 @@ export const products = [
   {
     id: 1,
     img: paint,
-    link: "https://github.com/realvishalrana",
+    link: "https://realvishalrana.github.io/scss-paint-box.github.io/",
   },
   {
     id: 2,
     img: horror,
-    link: "https://github.com/realvishalrana",
+    link: "https://realvishalrana.github.io/scss-best-horror-scenes.github.io/",
   },
   {
     id: 3,
