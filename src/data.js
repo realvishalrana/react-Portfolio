@@ -1,5 +1,5 @@
-import paint from "./img/paint-box.png";
-import horror from "./img/horror.png";
+import typing from "./img/typing-test.png";
+import food from "./img/foodies.png";
 import tolv from "./img/Tolv-Coding.png";
 import zoo from "./img/zoo-coding.png";
 import canal from "./img/canalstreet.png";
@@ -8,13 +8,13 @@ import schwartz from "./img/schwartz.png";
 export const products = [
   {
     id: 1,
-    img: paint,
-    link: "https://realvishalrana.github.io/scss-paint-box.github.io/",
+    img: schwartz,
+    link: "https://realvishalrana.github.io/scss-projects/scss-masterclass-Schwartz%20Coding/",
   },
   {
     id: 2,
-    img: horror,
-    link: "https://realvishalrana.github.io/scss-best-horror-scenes.github.io/",
+    img: food,
+    link: "https://react-foodies-app.netlify.app",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ export const products = [
   },
   {
     id: 6,
-    img: schwartz,
-    link: "https://realvishalrana.github.io/scss-projects/scss-masterclass-Schwartz%20Coding/",
+    img: typing,
+    link: "https://typing-test-js.netlify.app/",
   },
 ];
