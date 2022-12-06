@@ -2,14 +2,15 @@ import typing from "./img/typing-test.png";
 import food from "./img/foodies.png";
 import tolv from "./img/Tolv-Coding.png";
 import zoo from "./img/zoo-coding.png";
-import canal from "./img/canalstreet.png";
-import schwartz from "./img/schwartz.png";
+import ladingpage from "./img/landing-page.png";
+import portfolio from "./img/portfolio.png";
 
 export const products = [
+ 
   {
     id: 1,
-    img: schwartz,
-    link: "https://realvishalrana.github.io/scss-projects/scss-masterclass-Schwartz%20Coding/",
+    img: ladingpage,
+    link: "https://flexbox-grid-practice.netlify.app/",
   },
   {
     id: 2,
@@ -23,14 +24,15 @@ export const products = [
   },
   {
     id: 4,
-    img: zoo,
-    link: "https://realvishalrana.github.io/scss-projects/scss-masterclass-Zoo-Coding/",
+    img: portfolio,
+    link: "https://realvishalrana.github.io/simple-portfolio/",
   },
   {
     id: 5,
-    img: canal,
-    link: "https://realvishalrana.github.io/scss-projects/scss-masterclass-Canal-Street/",
+    img: zoo,
+    link: "https://realvishalrana.github.io/scss-projects/scss-masterclass-Zoo-Coding/",
   },
+ ,
   {
     id: 6,
     img: typing,
