@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { About, Contact, Intro, ProductList, Toggle } from "./components";
+import { Contact, Intro, ProductList, Toggle } from "./components";
 import { ThemeContext } from "./context";
 
 const App = () => {
@@ -14,7 +14,7 @@ const App = () => {
     >
       <Toggle />
       <Intro />
-      <About />
+      {/* <About /> */}
       <ProductList />
       <Contact />
     </div>

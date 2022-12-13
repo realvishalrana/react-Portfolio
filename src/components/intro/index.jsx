@@ -10,16 +10,14 @@ const Intro = () => {
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
-              <div className="i-title-item">UI/UX Desiger</div>
-              <div className="i-title-item">Graphic Desiger</div>
-              <div className="i-title-item">Content creators</div>
-              <div className="i-title-item">Writer</div>
+              <div className="i-title-item">Javascript</div>
+              <div className="i-title-item">ReactJS</div>
+              <div className="i-title-item">CSS</div>
+              <div className="i-title-item">Git</div>
             </div>
           </div>
           <p className="i-desc">
-            I design and develop services for customers of all sizes,
-            specializing in creating stylish, modern websites, web services and
-            online stores.
+            An aspiring software engineer with knowledge in javascript, reactjs and responsive design.
           </p>
         </div>
         <svg

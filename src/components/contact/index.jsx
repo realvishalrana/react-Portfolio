@@ -17,10 +17,10 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_tknftpr",
-        "template_k3ibrnm",
+        "service_wgdj616",
+        "template_qv8g34m",
         formRef.current,
-        "user_D0BW00skuxvDLbC2fhYHc"
+        "xoeYBSGW6DUccQNrF"
       )
       .then(
         (result) => {
@@ -37,26 +37,25 @@ const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper">
         <div className="c-left">
-          <h1 className="c-title">Let's discuss your project</h1>
+          <h1 className="c-title">Let's Connect</h1>
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +91 99999-88888
+              +91 8141923360
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
-              contact@gmail.com
+              isvishalrana@gmail.com
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              Lorem ipsum dolor sit amet consectetur
+              Surat, Gujarat, India
             </div>
           </div>
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>What’s your story?</b> Get in touch. Always available for
-            freelancing if the right project comes along. me.
+            Ask any question
           </p>
           <form ref={formRef} onSubmit={handlesubmit}>
             <input
